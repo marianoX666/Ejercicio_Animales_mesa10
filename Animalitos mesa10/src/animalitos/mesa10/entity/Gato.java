@@ -57,7 +57,7 @@ public class Gato {
         this.edad = edad;
     }
     
-    // metodo para MOSTRAR los ATRIBUTOS de un Objto
+    // metodo para MOSTRAR los ATRIBUTOS de un Objeto
     @Override
     public String toString() {
         return "Gato{" + "id=" + id + ", nombre=" + nombre + ", raza=" + raza + ", color=" + color + ", edad=" + edad + '}';
