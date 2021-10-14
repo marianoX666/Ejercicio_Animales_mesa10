@@ -8,9 +8,8 @@ public class Pato {
     private String nombre;
     private String especie;
     private String color;
-    private String comida;
+    private String comida;    
     
-
     public Pato() {
     }
 
