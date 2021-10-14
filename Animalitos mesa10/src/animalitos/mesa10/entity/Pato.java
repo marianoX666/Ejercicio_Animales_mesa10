@@ -8,8 +8,15 @@ public class Pato {
     private String nombre;
     private String especie;
     private String color;
+<<<<<<< HEAD
     private String comida;    
     
+=======
+    private String comida;
+    private int edad;
+    
+   
+>>>>>>> main
     public Pato() {
     }
 
