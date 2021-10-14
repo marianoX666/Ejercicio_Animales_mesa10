@@ -11,7 +11,7 @@ public class Tortuga {
     private String nombre;
     private String tamano;
     private Integer edad;
-   
+    private int velocidad;
 
     public Tortuga() {
     }
