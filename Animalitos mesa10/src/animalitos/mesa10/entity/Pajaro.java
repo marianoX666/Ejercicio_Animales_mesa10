@@ -5,17 +5,17 @@ public class Pajaro {
     private int id;
     private String nombre;
     private String alimento;
-    private String dueño;
+    private String dueno;
     private String chiquito;
 
     public Pajaro() {
     }
 
-    public Pajaro(int id, String nombre, String alimento, String dueño, String chiquito) {
+    public Pajaro(int id, String nombre, String alimento, String dueno, String chiquito) {
         this.id = id;
         this.nombre = nombre;
         this.alimento = alimento;
-        this.dueño = dueño;
+        this.dueno = dueno;
         this.chiquito = chiquito;
     }
 
@@ -43,12 +43,12 @@ public class Pajaro {
         this.alimento = alimento;
     }
 
-    public String getDueño() {
-        return dueño;
+    public String getDueno() {
+        return dueno;
     }
 
-    public void setDueño(String dueño) {
-        this.dueño = dueño;
+    public void setDueno(String dueno) {
+        this.dueno = dueno;
     }
 
     public String getChiquito() {
@@ -61,7 +61,7 @@ public class Pajaro {
 
     @Override
     public String toString() {
-        return "Pajaro{" + "id=" + id + ", nombre=" + nombre + ", alimento=" + alimento + ", due\u00f1o=" + dueño + ", chiquito=" + chiquito + '}';
+        return "Pajaro{" + "id=" + id + ", nombre=" + nombre + ", alimento=" + alimento + ", due\u00f1o=" + dueno + ", chiquito=" + chiquito + '}';
     }
     
 }
