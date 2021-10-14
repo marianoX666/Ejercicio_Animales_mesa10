@@ -62,5 +62,12 @@ public class Pato {
         this.comida = comida;
     }
 
+    @Override
+    public String toString() {
+        return "Pato{" + "id=" + id + ", nombre=" + nombre + ", especie=" + especie + ", color=" + color + ", comida=" + comida + ", edad=" + edad + '}';
+    }
+    
+    
+
     
 }
