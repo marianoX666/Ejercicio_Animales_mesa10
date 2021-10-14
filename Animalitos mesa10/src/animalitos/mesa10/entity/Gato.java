@@ -11,6 +11,7 @@ public class Gato {
     private String color;
     private int edad; 
     
+    
     // CONSTRUCTORES
     public Gato() {}
     public Gato(int id, String nombre, String raza, String color, int edad) {
