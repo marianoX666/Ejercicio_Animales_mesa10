@@ -11,6 +11,7 @@ public class Pato {
     private String comida;
     private int edad;
     
+    
    
     public Pato() {
     }

@@ -8,6 +8,7 @@ public class Caballo {
 	private String raza;
 	private String color;
 	
+        
 	
 	public Caballo(Integer id, String nombre, String raza, String color) {
 		super();
