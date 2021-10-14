@@ -9,7 +9,6 @@ public class Pato {
     private String especie;
     private String color;
     private String comida;    
-    private String comida;
     private int edad;
     public Pato() {
     }
