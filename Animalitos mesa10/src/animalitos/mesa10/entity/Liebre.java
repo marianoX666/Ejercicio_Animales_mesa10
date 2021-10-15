@@ -9,13 +9,15 @@ package animalitos.mesa10.entity;
  *
  * @author 54261
  */
-public class Liebre    }
- {
+public class Liebre    {
+ 
     private String nombre;
     private String color;
     private Integer anios;
 
     public Liebre() {
+        
+    }
 
     public Liebre(String nombre, String color, Integer anios) {
         this.nombre = nombre;
