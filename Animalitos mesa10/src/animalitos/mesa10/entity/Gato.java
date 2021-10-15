@@ -1,4 +1,4 @@
-// Ejercicio 4 - Guia GIT con GITHUB
+// Ejercicio 4 - Guia GIT con GITHUB - rama mario
 package animalitos.mesa10.entity;
 
 // aporte Mario
